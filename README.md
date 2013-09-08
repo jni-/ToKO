@@ -26,5 +26,5 @@ Todo
 * Add examples
 * Generate readable code
 * Generate minified code
-* Use MvcHtmlString or whatever that this is called
+* Use MvcHtmlString or whatever that thing is called
 * Nugetise
